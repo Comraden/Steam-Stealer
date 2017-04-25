@@ -1,0 +1,10 @@
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\System.csproj.GenerateResource.Cache
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\xNet.dll
+C:\Users\Postalx\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\System.csprojResolveAssemblyReference.cache
